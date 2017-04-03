@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J2 Old Footprint=IDC-06 New Footprint=Header-3x2
+Added Pin To Net: NetName=MISO Pin=J2-3
+Added Pin To Net: NetName=MISO Pin=U1-10

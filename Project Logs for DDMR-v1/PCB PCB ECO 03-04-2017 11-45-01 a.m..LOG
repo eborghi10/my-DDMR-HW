@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PROG Pin=C3-1
+Removed Pin From Net: NetName=VBUS Pin=C3-2
+Removed Pin From Net: NetName=VBUS Pin=D2-4
+Removed Pin From Net: NetName=VBUS Pin=U1-2
+Removed Pin From Net: NetName=PROG Pin=U1-33
+Removed Member From Class: ClassName=SCH Member=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Added Component: Designator=R4(RES_1206)
+Added Pin To Net: NetName=+5 Pin=D2-4
+Added Pin To Net: NetName=PROG Pin=R4-2
+Added Pin To Net: NetName=+5 Pin=U1-2
+Change Net Name : Old Net Name=PROG New Net Name=GND
+Added Pin To Net: NetName=PROG Pin=R4-1
+Added Pin To Net: NetName=PROG Pin=U1-33
+Added Net: Name=PROG
+Added Member To Class: ClassName=SCH Member=Component R4 1k

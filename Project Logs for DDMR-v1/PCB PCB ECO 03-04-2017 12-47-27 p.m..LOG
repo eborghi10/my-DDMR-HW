@@ -1,0 +1,4 @@
+Added Component: Designator=R5(1206-0Ohm)
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Member To Class: ClassName=SCH Member=Component R5 0

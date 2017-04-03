@@ -1,0 +1,12 @@
+Added Component: Designator=J3(TB_SMD_2V)
+Added Component: Designator=J4(TB_SMD_2V)
+Added Component: Designator=J5(TB_SMD_2V)
+Added Pin To Net: NetName=+5 Pin=J3-1
+Added Pin To Net: NetName=PROG Pin=J3-2
+Added Pin To Net: NetName=IN1 Pin=J4-1
+Added Pin To Net: NetName=IN2 Pin=J4-2
+Added Pin To Net: NetName=IN3 Pin=J5-1
+Added Pin To Net: NetName=IN4 Pin=J5-2
+Added Member To Class: ClassName=SCH Member=Component J3 VCC
+Added Member To Class: ClassName=SCH Member=Component J4 M1
+Added Member To Class: ClassName=SCH Member=Component J5 M2

@@ -1,0 +1,48 @@
+Added Component: Designator=C3(C0805)
+Added Component: Designator=C4(C0805)
+Added Component: Designator=C5(CC_1206)
+Added Component: Designator=C6(CC_1206)
+Added Component: Designator=C7(CC_1206)
+Added Component: Designator=C8(CC_1206)
+Added Component: Designator=C9(CC_1206)
+Added Component: Designator=F1(1206-PTC)
+Added Component: Designator=L1(CC_0603)
+Added Component: Designator=L2(CC_0603)
+Added Pin To Net: NetName=PROG Pin=C3-1
+Added Pin To Net: NetName=VBUS Pin=C3-2
+Added Pin To Net: NetName=PROG Pin=C4-1
+Added Pin To Net: NetName=+5 Pin=C4-2
+Added Pin To Net: NetName=PROG Pin=C5-1
+Added Pin To Net: NetName=+5 Pin=C5-2
+Added Pin To Net: NetName=PROG Pin=C6-1
+Added Pin To Net: NetName=UCAP Pin=C6-2
+Added Pin To Net: NetName=PROG Pin=C7-1
+Added Pin To Net: NetName=AREF Pin=C7-2
+Added Pin To Net: NetName=PROG Pin=C8-1
+Added Pin To Net: NetName=AVCC1 Pin=C8-2
+Added Pin To Net: NetName=AVCC2 Pin=C9-1
+Added Pin To Net: NetName=PROG Pin=C9-2
+Added Pin To Net: NetName=VBUS Pin=F1-1
+Added Pin To Net: NetName=+5 Pin=F1-2
+Added Pin To Net: NetName=+5 Pin=L1-1
+Added Pin To Net: NetName=AVCC1 Pin=L1-2
+Added Pin To Net: NetName=+5 Pin=L2-1
+Added Pin To Net: NetName=AVCC2 Pin=L2-2
+Added Pin To Net: NetName=IN1 Pin=U1-31
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=U1-12
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=U1-30
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=U1-29
+Added Net: Name=IN4
+Added Member To Class: ClassName=SCH Member=Component C3 1uF
+Added Member To Class: ClassName=SCH Member=Component C4 1uF
+Added Member To Class: ClassName=SCH Member=Component C5 100nF
+Added Member To Class: ClassName=SCH Member=Component C6 100nF
+Added Member To Class: ClassName=SCH Member=Component C7 100nF
+Added Member To Class: ClassName=SCH Member=Component C8 100nF
+Added Member To Class: ClassName=SCH Member=Component C9 100nF
+Added Member To Class: ClassName=SCH Member=Component F1 6V 1.1A
+Added Member To Class: ClassName=SCH Member=Component L1 600 Ohm 1.5A
+Added Member To Class: ClassName=SCH Member=Component L2 600 Ohm 1.5A

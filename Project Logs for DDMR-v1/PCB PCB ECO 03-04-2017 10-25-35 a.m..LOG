@@ -1,0 +1,36 @@
+Change Component DesignItemId : Designator=J3 Old DesignItemId=TB_2 New DesignItemId=TB_3
+Change Component Footprint: Designator=J3 Old Footprint=TB_SMD_2V New Footprint=TB_SMD_3v
+Change Component Comment : Designator=R1 Old Comment=10 New Comment=10k
+Added Component: Designator=J6(Poke Home H6)
+Added Component: Designator=J7(Poke Home H6)
+Added Pin To Net: NetName=PROG Pin=J3-3
+Added Pin To Net: NetName=+5 Pin=J6-1
+Added Pin To Net: NetName=+5 Pin=J6-1
+Added Pin To Net: NetName=SCK Pin=J6-2
+Added Pin To Net: NetName=SCK Pin=J6-2
+Added Pin To Net: NetName=MISO Pin=J6-3
+Added Pin To Net: NetName=MISO Pin=J6-3
+Added Pin To Net: NetName=MISO Pin=J6-4
+Added Pin To Net: NetName=MISO Pin=J6-4
+Added Pin To Net: NetName=PROG Pin=J6-6
+Added Pin To Net: NetName=PROG Pin=J6-6
+Added Pin To Net: NetName=+5 Pin=J7-1
+Added Pin To Net: NetName=+5 Pin=J7-1
+Added Pin To Net: NetName=SCK Pin=J7-2
+Added Pin To Net: NetName=SCK Pin=J7-2
+Added Pin To Net: NetName=MISO Pin=J7-3
+Added Pin To Net: NetName=MISO Pin=J7-3
+Added Pin To Net: NetName=MISO Pin=J7-4
+Added Pin To Net: NetName=MISO Pin=J7-4
+Added Pin To Net: NetName=PROG Pin=J7-6
+Added Pin To Net: NetName=PROG Pin=J7-6
+Added Pin To Net: NetName=CS1 Pin=J7-5
+Added Pin To Net: NetName=CS1 Pin=J7-5
+Added Pin To Net: NetName=CS1 Pin=U1-27
+Added Net: Name=CS1
+Added Pin To Net: NetName=CS2 Pin=J6-5
+Added Pin To Net: NetName=CS2 Pin=J6-5
+Added Pin To Net: NetName=CS2 Pin=U1-26
+Added Net: Name=CS2
+Added Member To Class: ClassName=SCH Member=Component J6 Encoder-2
+Added Member To Class: ClassName=SCH Member=Component J7 Encoder-1

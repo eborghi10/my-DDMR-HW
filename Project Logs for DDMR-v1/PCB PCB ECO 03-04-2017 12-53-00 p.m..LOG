@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=MISO Pin=J2-3
+Removed Pin From Net: NetName=MISO Pin=J6-3
+Removed Pin From Net: NetName=MISO Pin=J6-3
+Removed Pin From Net: NetName=MISO Pin=J7-3
+Removed Pin From Net: NetName=MISO Pin=J7-3
+Removed Pin From Net: NetName=MISO Pin=U1-10
+Added Pin To Net: NetName=MOSI Pin=J2-3
+Added Pin To Net: NetName=MOSI Pin=J6-3
+Added Pin To Net: NetName=MOSI Pin=J6-3
+Added Pin To Net: NetName=MOSI Pin=J7-3
+Added Pin To Net: NetName=MOSI Pin=J7-3
+Added Pin To Net: NetName=MOSI Pin=U1-10
+Added Net: Name=MOSI
