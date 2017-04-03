@@ -1,0 +1,75 @@
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(C0805)
+Added Component: Designator=D1(SOD-123)
+Added Component: Designator=D2(SOT143B)
+Added Component: Designator=J1(USB Mini-B SMD)
+Added Component: Designator=R1(RES_1206)
+Added Component: Designator=R2(RES_1206)
+Added Component: Designator=R3(RES_1206)
+Added Component: Designator=S1(EVQPL)
+Added Component: Designator=U1(TQFP44)
+Added Component: Designator=X1(ABM2 - XTAL)
+Added Pin To Net: NetName=+5 Pin=D1-1
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=+5 Pin=U1-14
+Added Pin To Net: NetName=+5 Pin=U1-34
+Added Net: Name=+5
+Added Pin To Net: NetName=AREF Pin=U1-42
+Added Net: Name=AREF
+Added Pin To Net: NetName=AVCC1 Pin=U1-24
+Added Net: Name=AVCC1
+Added Pin To Net: NetName=AVCC2 Pin=U1-44
+Added Net: Name=AVCC2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=J1-2
+Added Pin To Net: NetName=NetD2_2 Pin=R3-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD2_3 Pin=D2-3
+Added Pin To Net: NetName=NetD2_3 Pin=J1-3
+Added Pin To Net: NetName=NetD2_3 Pin=R2-1
+Added Net: Name=NetD2_3
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-4
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-3
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=PROG Pin=C1-1
+Added Pin To Net: NetName=PROG Pin=C2-1
+Added Pin To Net: NetName=PROG Pin=D2-1
+Added Pin To Net: NetName=PROG Pin=J1-5
+Added Pin To Net: NetName=PROG Pin=J1-MH
+Added Pin To Net: NetName=PROG Pin=J1-MH
+Added Pin To Net: NetName=PROG Pin=J1-MH
+Added Pin To Net: NetName=PROG Pin=J1-MH
+Added Pin To Net: NetName=PROG Pin=S1-2
+Added Pin To Net: NetName=PROG Pin=S1-2
+Added Pin To Net: NetName=PROG Pin=U1-15
+Added Pin To Net: NetName=PROG Pin=U1-23
+Added Pin To Net: NetName=PROG Pin=U1-33
+Added Pin To Net: NetName=PROG Pin=U1-35
+Added Pin To Net: NetName=PROG Pin=U1-43
+Added Net: Name=PROG
+Added Pin To Net: NetName=RESET Pin=D1-2
+Added Pin To Net: NetName=RESET Pin=R1-2
+Added Pin To Net: NetName=RESET Pin=S1-1
+Added Pin To Net: NetName=RESET Pin=S1-1
+Added Pin To Net: NetName=RESET Pin=U1-13
+Added Net: Name=RESET
+Added Pin To Net: NetName=UCAP Pin=U1-6
+Added Net: Name=UCAP
+Added Pin To Net: NetName=VBUS Pin=D2-4
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=U1-2
+Added Pin To Net: NetName=VBUS Pin=U1-7
+Added Net: Name=VBUS
+Added Pin To Net: NetName=XTAL1 Pin=C2-2
+Added Pin To Net: NetName=XTAL1 Pin=U1-17
+Added Pin To Net: NetName=XTAL1 Pin=X1-1
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=C1-2
+Added Pin To Net: NetName=XTAL2 Pin=U1-16
+Added Pin To Net: NetName=XTAL2 Pin=X1-2
+Added Net: Name=XTAL2
+Added Class: Name=SCH
+Added Room: Name=SCH

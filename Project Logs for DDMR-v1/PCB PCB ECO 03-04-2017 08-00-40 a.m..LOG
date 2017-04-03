@@ -1,0 +1,14 @@
+Added Component: Designator=J2(IDC-06)
+Added Pin To Net: NetName=+5 Pin=J2-1
+Added Pin To Net: NetName=RESET Pin=J2-2
+Added Pin To Net: NetName=PROG Pin=J2-5
+Added Pin To Net: NetName=MISO Pin=J2-4
+Added Pin To Net: NetName=MISO Pin=U1-11
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J2-3
+Added Pin To Net: NetName=MOSI Pin=U1-10
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCK Pin=J2-6
+Added Pin To Net: NetName=SCK Pin=U1-9
+Added Net: Name=SCK
+Added Member To Class: ClassName=SCH Member=Component J2 ISP
